@@ -32,11 +32,20 @@ const songs = [
   {
     id: "main-duniya-bhula-dunga",
     title: "Main Duniya Bhula Dunga",
-    hindiTitle: "प्यार हुआ इक़रार हुआ",
+    hindiTitle: "",
     singer: "Kumar Sanu",
     film: "Aashiqui",
     year: 1989,
     youtubeId: "otQmzlm-s7Q",
+  },
+  {
+    id: "ek-ladki-bheegi-bhaagi-si",
+    title: "ek-ladki-bheegi-bhaagi-si",
+    hindiTitle: "",
+    singer: "Kishore Kumar",
+    film: "Aashiqui",
+    year: 1989,
+    youtubeId: "mxYNdy-0CEs",
   },
 ];
 
