@@ -2,8 +2,12 @@
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
-  basePath: "/your-repo-name",
-  images: { unoptimized: true },
+  basePath: "/deluxe-salon",
+  assetPrefix: "/deluxe-salon/",
+  trailingSlash: true,
+  images: {
+    unoptimized: true,
+  },
 };
 
 module.exports = nextConfig;
